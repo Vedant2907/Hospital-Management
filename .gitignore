@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 /package.json
 tailwind.config.js
+// add files here
